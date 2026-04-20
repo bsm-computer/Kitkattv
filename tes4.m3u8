@@ -103,23 +103,11 @@ https://tvstreamcast.com/indonesiana.m3u8
 
 -- Indonesia (Digital) --
 
-#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://object-streamo.emonaja.com/img/antv.png" group-title="Indonesia (Digital)", ANTV
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=500000
-http://front-main.eagle-4k.me:80/Emeka20252025/fwazza47nd/1165776
-
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://object-streamo.emonaja.com/img/indosiar.png" group-title="Indonesia (Digital)", Indosiar
-http://my.bianet.es.vip.hk:80///12/F36591/3f1a2b5c/162138
-
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://object-streamo.emonaja.com/img/indosiar.png" group-title="Indonesia (Digital)", Indosiar (Alternative)
 http://opplextv.cyou:8080/nasir6160/nasir/350972
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://object-streamo.emonaja.com/img/sctv.png" group-title="Indonesia (Digital)", SCTV
 http://opplextv.cyou:8080/nasir6160/nasir/351030
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="Moji.id" tvg-name="Moji" tvg-logo="https://object-streamo.emonaja.com/img/moji.png" group-title="Indonesia (Digital)", Moji
-http://opplextv.cyou:8080/nasir6160/nasir/350997
 
 #EXTINF:-1 tvg-name="MDTV" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="Indonesia (Digital)", MDTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
@@ -149,9 +137,6 @@ https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8
  
 #EXTINF:-1 tvg-logo="https://iili.io/JmF1x0Q.png" group-title="TVRI",TVRI Bali
 https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8
- 
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1zgV.png" group-title="TVRI",TVRI Bangka Belitung
-https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8
  
 #EXTINF:-1 tvg-logo="https://iili.io/JmF1TdB.png" group-title="TVRI",TVRI Bengkulu
 https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8
@@ -188,9 +173,6 @@ https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim.m3u8
  
 #EXTINF:-1 tvg-logo="https://iili.io/JmF1krl.png" group-title="TVRI",TVRI Lampung
 https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung.m3u8
- 
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1wLG.png" group-title="TVRI",TVRI Maluku
-https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon.m3u8
  
 #EXTINF:-1 tvg-logo="https://iili.io/JmF1e14.png" group-title="TVRI",TVRI NTB
 https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8
