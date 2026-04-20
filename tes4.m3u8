@@ -330,54 +330,12 @@ https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/bbcworldnews.smil/manifest.mpd
 
 -- Music --
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://object-streamo.emonaja.com/img/Musictv.png", Music TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=55d8bf610e3142408ecfa5295d7eba39:0774f3ae6ea32f9b4c24896f1fb5bb40
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd
-
-#EXTINF:-1 tvg-id="Prambors.id" tvg-name="Prambors" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/Prambors.svg/250px-Prambors.svg.png" group-title="Music", Prambors TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=97ff88352c574038b70e09642a90feec:66c062a920329c52fb446fac728c90d7
-https://cdn10jtedge.indihometv.com/atm/mpd-vo/pramborstv/manifest.mpd
-
-#EXTINF:-1 tvg-id="MusikIndonesia.id" tvg-logo="https://i.postimg.cc/xdtkx9P0/musik-indo.png" group-title="Music", Musik Indonesia
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e092c5a72f3444419756b6a66c5e64da:8193b7dbb3e1c62ddd30546d3aaf9d40
-https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo/manifest_wuseetv.mpd
-
-#EXTINF:-1 tvg-id="MusikIndonesia.id" tvg-logo="https://i.postimg.cc/xdtkx9P0/musik-indo.png" group-title="Music", Musik Indonesia (Alternative)
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.caranytv.workers.dev/trv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c685730a4243017317dee5df1572/manifest.mpd
-
 #EXTINF:-1 tvg-name="MTV Live" tvg-id="MTVLIVE.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-live-us.png?raw=true" group-title="Music" radio="false", MTV Live
 http://23.237.104.106:8080/USA_MTV_LIVE/mpegts
 
 #EXTINF:-1 tvg-id="MTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/500px-MTV_2021_%28brand_version%29.png" group-title="Music", MTV (Japan)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#EXTINF:-1  tvg-id="158964" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='7510620'&EntityType='Item'&EntityId='158964'&Width=193&Height=187" group-title="Music",NOW 70s
-https://tglmp03.akamaized.net/out/v1/f904e7d47bd245efb58c55581e5acf71/manifest.mpd
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#EXTINF:-1  tvg-id="158965" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='7510630'&EntityType='Item'&EntityId='158965'&Width=193&Height=187" group-title="Music",NOW 80s
-https://tglmp02.akamaized.net/out/v1/e9318eedbe1847f8924a3fcfb1b93648/manifest.mpd
-
-#EXTINF:-1 tvg-id="Now90s00s.uk@Poland" tvg-logo="https://images.pluto.tv/channels/6490254fd2c47c00083a5743/colorLogoPNG.png" group-title="Music",NOW 90s & 00s
-https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#EXTINF:-1  tvg-id="158963" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='7510610'&EntityType='Item'&EntityId='158963'&Width=193&Height=187" group-title="Music",NOW Rock
-https://tglmp04.akamaized.net/out/v1/7c6aa1207e91478dbbce70d35e40b61b/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1900009UD_20250107T030827SQUARE.png" group-title="Music", Vevo '70s & '80s
 https://jmp2.uk/stvp-GBBD1900009UD
