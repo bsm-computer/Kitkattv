@@ -69,22 +69,11 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="Magna.id" tvg-name="Magna" tvg-logo="https://object-streamo.emonaja.com/img/magna.webp" group-title="Indonesia (Web Stream)", Magna Channel 
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-#EXTINF:-1 tvg-id="Nusantara.TV.id" tvg-name="Nusantara TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/nusantara.png" group-title="Indonesia (Web Stream)", Nusantara TV
-https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Garuda TV.id" tvg-name="Garuda TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/garuda.png" group-title="Indonesia (Web Stream)", Garuda TV
 #EXTVLCOPT:http-referrer=https://garuda.tv/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
 
-#EXTINF:-1 tvg-id="Indonesiana TV" tvg-url="Indonesiana.TV.id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/indosiana.png" group-title="Indonesia (Web Stream)", Indonesiana TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://tvstreamcast.com/indonesiana.m3u8
 
 -- Indonesia (Digital) --
 
