@@ -311,31 +311,6 @@ http://23.237.104.106:8080/USA_MTV_LIVE/mpegts
 #EXTINF:-1 tvg-id="MTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/500px-MTV_2021_%28brand_version%29.png" group-title="Music", MTV (Japan)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
 
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1900009UD_20250107T030827SQUARE.png" group-title="Music", Vevo '70s & '80s
-https://jmp2.uk/stvp-GBBD1900009UD
-https://jmp2.uk/plu-5fd7b8bf927e090007685853.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2100002HP_20250107T025831SQUARE.png" group-title="Music", Vevo '90s & '00s
-https://jmp2.uk/stvp-GBBC2100002HP
-https://jmp2.uk/plu-5fd7bb1f86d94a000796e2c2.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400015F5_20241112T001845SQUARE.png" group-title="Music", Vevo 2K
-#https://jmp2.uk/stvp-USBB4400015F5
-https://jmp2.uk/plu-5fd7bca3e0a4ee0007a38e8c.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD2300001C0_20250107T030829SQUARE.png" group-title="Music", Vevo Hip Hop & R&B
-https://jmp2.uk/stvp-GBBD2300001C0
-https://jmp2.uk/plu-5da0d83f66c9700009b96d0e.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC19000017V_20250107T025833SQUARE.png" group-title="Music", Vevo Pop
-https://jmp2.uk/stvp-GBBC19000017V
-https://jmp2.uk/plu-5d93b635b43dd1a399b39eee.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000145P_20250602T231528SQUARE.png" group-title="Music", Vevo Rock
-https://jmp2.uk/stvp-USBD3000145P
-https://jmp2.uk/plu-61d4b38226b8a50007fe03a6.m3u8
-
 #05-05-2026#
 -------------------------------
 
