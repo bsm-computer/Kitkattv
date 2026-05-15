@@ -171,113 +171,113 @@ https://flv.intechmedia.net/live/ch107.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 
--- TVRI --
+-- TVRI GROUP--
 
-#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.imgur.com/Lk0f0G4.png" group-title="TVRI",TVRI Nasional
+#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.imgur.com/Lk0f0G4.png" group-title="TVRI GROUP",TVRI Nasional
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 http://khano.nng.cloudns.us/live/m3u8/id/3f58825fe229a9f.m3u8
 
-#EXTINF:-1 tvg-name="TVRI World" tvg-id="TVRI.id" tvg-logo="https://ik.imagekit.io/goodid/gnfi/uploads/articles/large-opening-tvri-world-6981f018fc32d02858d280ae62d718d7.jpg?tr=w-730,h-486,fo-center" group-title="TVRI",TVRI World
+#EXTINF:-1 tvg-name="TVRI World" tvg-id="TVRI.id" tvg-logo="https://ik.imagekit.io/goodid/gnfi/uploads/articles/large-opening-tvri-world-6981f018fc32d02858d280ae62d718d7.jpg?tr=w-730,h-486,fo-center" group-title="TVRI GROUP",TVRI World
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://delta.dens.tv/
-#EXTINF:-1  tvg-name="TVRI Sport" tvg-id="TVRI.id" tvg-logo="https://football-tribe.com/indonesia/wp-content/uploads/sites/10/2019/01/TVRI-Sport-HD.png" group-title="TVRI",TVRI Sport
+#EXTINF:-1  tvg-name="TVRI Sport" tvg-id="TVRI.id" tvg-logo="https://football-tribe.com/indonesia/wp-content/uploads/sites/10/2019/01/TVRI-Sport-HD.png" group-title="TVRI GROUP",TVRI Sport
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 http://202.169.224.202:8800/udp/239.1.2.3:1234
 https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8?app_type=web&userid=lite&chname=TVRI_Sport
 
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1BWb.png" group-title="TVRI",TVRI Aceh
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1BWb.png" group-title="TVRI GROUP",TVRI Aceh
 https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8
  
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1x0Q.png" group-title="TVRI",TVRI Bali
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1x0Q.png" group-title="TVRI GROUP",TVRI Bali
 https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8
  
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1TdB.png" group-title="TVRI",TVRI Bengkulu
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1TdB.png" group-title="TVRI GROUP",TVRI Bengkulu
 https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8
  
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1Ae1.png" group-title="TVRI",TVRI Gorontalo
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1Ae1.png" group-title="TVRI GROUP",TVRI Gorontalo
 https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo.m3u8
  
-#EXTINF:-1 tvg-logo="https://iili.io/JmF17zg.png" group-title="TVRI",TVRI Jakarta
+#EXTINF:-1 tvg-logo="https://iili.io/JmF17zg.png" group-title="TVRI GROUP",TVRI Jakarta
 https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI.m3u8
  
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1RmF.png" group-title="TVRI",TVRI Jambi
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1RmF.png" group-title="TVRI GROUP",TVRI Jambi
 https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi.m3u8
  
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1YXa.png" group-title="TVRI",TVRI Jawa Barat
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1YXa.png" group-title="TVRI GROUP",TVRI Jawa Barat
 https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8
  
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1GdN.png" group-title="TVRI",TVRI Jawa Tengah
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1GdN.png" group-title="TVRI GROUP",TVRI Jawa Tengah
 https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8
  
-#EXTINF:-1 tvg-logo="https://iili.io/JmF101R.png" group-title="TVRI",TVRI Jawa Timur
+#EXTINF:-1 tvg-logo="https://iili.io/JmF101R.png" group-title="TVRI GROUP",TVRI Jawa Timur
 https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8
  
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1M7I.png" group-title="TVRI",TVRI Kalimantan Barat
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1M7I.png" group-title="TVRI GROUP",TVRI Kalimantan Barat
 https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8
  
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1WmX.png" group-title="TVRI",TVRI Kalimantan Selatan
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1WmX.png" group-title="TVRI GROUP",TVRI Kalimantan Selatan
 https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel.m3u8
  
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1hIn.png" group-title="TVRI",TVRI Kalimantan Tengah
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1hIn.png" group-title="TVRI GROUP",TVRI Kalimantan Tengah
 https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng.m3u8
  
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1jXs.png" group-title="TVRI",TVRI Kalimantan Timur
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1jXs.png" group-title="TVRI GROUP",TVRI Kalimantan Timur
 https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim.m3u8
  
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1krl.png" group-title="TVRI",TVRI Lampung
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1krl.png" group-title="TVRI GROUP",TVRI Lampung
 https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung.m3u8
  
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1e14.png" group-title="TVRI",TVRI NTB
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1e14.png" group-title="TVRI GROUP",TVRI NTB
 https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8
  
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1gp9.png" group-title="TVRI",TVRI NTT
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1gp9.png" group-title="TVRI GROUP",TVRI NTT
 https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT.m3u8
  
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1822.png" group-title="TVRI",TVRI Papua
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1822.png" group-title="TVRI GROUP",TVRI Papua
 https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua.m3u8
  
-#EXTINF:-1 tvg-logo="https://iili.io/d9HAivV.png" group-title="TVRI",TVRI Papua Barat
+#EXTINF:-1 tvg-logo="https://iili.io/d9HAivV.png" group-title="TVRI GROUP",TVRI Papua Barat
 https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8
  
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1S7S.png" group-title="TVRI",TVRI Riau
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1S7S.png" group-title="TVRI GROUP",TVRI Riau
 https://ott-balancer.tvri.go.id/live/eds/Riau/hlstl/Riau.m3u8
  
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1PLb.png" group-title="TVRI",TVRI Sulawesi Barat
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1PLb.png" group-title="TVRI GROUP",TVRI Sulawesi Barat
 https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar.m3u8
  
-#EXTINF:-1 tvg-logo="https://iili.io/JmF16hu.png" group-title="TVRI",TVRI Sulawesi Selatan
+#EXTINF:-1 tvg-logo="https://iili.io/JmF16hu.png" group-title="TVRI GROUP",TVRI Sulawesi Selatan
 https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel.m3u8
  
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1t2V.png" group-title="TVRI",TVRI Sulawesi Tengah
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1t2V.png" group-title="TVRI GROUP",TVRI Sulawesi Tengah
 https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng.m3u8
  
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1Kbe.png" group-title="TVRI",TVRI Sulawesi Tenggara
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1Kbe.png" group-title="TVRI GROUP",TVRI Sulawesi Tenggara
 https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra.m3u8
  
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1Fe9.png" group-title="TVRI",TVRI Sulawesi Utara
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1Fe9.png" group-title="TVRI GROUP",TVRI Sulawesi Utara
 https://ott-balancer.tvri.go.id/live/eds/Sulut/hls/Sulut.m3u8
  
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1357.png" group-title="TVRI",TVRI Sumatera Barat
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1357.png" group-title="TVRI GROUP",TVRI Sumatera Barat
 https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8
  
-#EXTINF:-1 tvg-logo="https://iili.io/JmF12JS.png" group-title="TVRI",TVRI Sumatera Selatan
+#EXTINF:-1 tvg-logo="https://iili.io/JmF12JS.png" group-title="TVRI GROUP",TVRI Sumatera Selatan
 https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel.m3u8
  
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1oqx.png" group-title="TVRI",TVRI Sumatera Utara
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1oqx.png" group-title="TVRI GROUP",TVRI Sumatera Utara
 https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut.m3u8
  
-# Movies #
+-- Movie Channel --
 
 
-#EXTINF:-1 tvg-id="CelestialMovies.id" tvg-name="Celestial Movies" tvg-logo="https://object-streamo.emonaja.com/img/celestialmovies.png" group-title="Movies", Celestial Movies
+#EXTINF:-1 tvg-id="CelestialMovies.id" tvg-name="Celestial Movies" tvg-logo="https://object-streamo.emonaja.com/img/celestialmovies.png" group-title="Movie Channel", Celestial Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.58.160.157:8278/720-CELESTIALMOVIES/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Thrill.hk" tvg-name="Thrill" tvg-logo="https://object-streamo.emonaja.com/img/thrill.png" group-title="Movies", Thrill
+#EXTINF:-1 tvg-id="Thrill.hk" tvg-name="Thrill" tvg-logo="https://object-streamo.emonaja.com/img/thrill.png" group-title="Movie Channel", Thrill
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.58.160.157:8278/720-THRILL/playlist.m3u8
